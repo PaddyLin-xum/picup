@@ -127,6 +127,7 @@ div#app {
   align-items: center;
   justify-content: center;
   border: 3px dashed #DCDFE6;
+  width: 500px;
 }
 
 .upload-area.focus {
